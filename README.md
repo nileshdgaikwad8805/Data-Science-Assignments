@@ -22,6 +22,19 @@ Q12)  Below are the scores obtained by a student in tests
 2)	What can we say about the student marks? 
 
 
+
+Q 20) Calculate probability from the given dataset for the below cases
+Data _set: Cars.csv
+Calculate the probability of MPG  of Cars for the below cases.
+       MPG <- Cars$MPG
+a.	P(MPG>38)
+b.	P(MPG<40)
+c.    P (20<MPG<50)
+
+
+
+
+
 Q 21) Check whether the data follows normal distribution
 a)	Check whether the MPG of Cars follows Normal Distribution 
         Dataset: Cars.csv
