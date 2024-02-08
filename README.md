@@ -5,6 +5,6 @@ Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range & comment 
 -	For Points,Score,Weigh>
 Find Mean, Median, Mode, Variance, Standard Deviation, and Range and also Comment about the values/ Draw some inferences.
 
-Calculate Skewness, Kurtosis & draw inferences on the following data
+Q9)Calculate Skewness, Kurtosis & draw inferences on the following data
       Cars speed and distance 
 Use Q9_a.csv
