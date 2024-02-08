@@ -22,6 +22,13 @@ Q12)  Below are the scores obtained by a student in tests
 2)	What can we say about the student marks? 
 
 
+Q 21) Check whether the data follows normal distribution
+a)	Check whether the MPG of Cars follows Normal Distribution 
+        Dataset: Cars.csv
+b)	Check Whether the Adipose Tissue (AT) and Waist Circumference(Waist)  from wc-at data set  follows Normal Distribution 
+       Dataset: wc-at.csv
+
+       
 Q24)A Government  company claims that an average light bulb lasts 270 days. A researcher randomly selects 18 bulbs for testing. The sampled bulbs last an average of 260 days, with a standard deviation of 90 days. If the CEO's claim were true, what is the probability that 18 randomly selected bulbs would have an average life of no more than 260 days
 Hint:  
    rcode   pt(tscore,df)  
